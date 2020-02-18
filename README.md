@@ -3,6 +3,8 @@
 Feather iconfont wrapped in a library for convenience.  
 Font sourced from https://github.com/AT-UI/feather-font
 
+<img src = "media/feather_icon_lib1.png" width = "400">&nbsp;<img src = "media/feather_icon_lib2.png" width = "400">  
+
 ## Usage:
 
 + gradle //TODO
@@ -23,3 +25,4 @@ text_view?.text = FeatherIcons.feather_shopping_cart.glyph
   ```
 
 
+## [License](LICENSE)
