@@ -1,9 +1,10 @@
 [![](https://jitpack.io/v/blastercoil/FeatherIcons-iconfont-lib.svg)](https://jitpack.io/#blastercoil/FeatherIcons-iconfont-lib)
 
-# FeatherIconsLib
+# FeatherIcons iconfont lib
 
 Feather iconfont wrapped in a library for convenience.  
-Font sourced from https://github.com/AT-UI/feather-font
+Font sourced from https://github.com/AT-UI/feather-font  
+List of icons and their names can be found here: https://at-ui.github.io/feather-font/
 
 <img src = "media/feather_icon_lib1.png" width = "400">&nbsp;<img src = "media/feather_icon_lib2.png" width = "400">  
 
@@ -26,7 +27,7 @@ dependencies {
 }
 ```
 
-## Usage:
+## Usage
 
 In XML:
 ```XML
