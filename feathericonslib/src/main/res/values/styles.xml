@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="feather_font">
+        <item name="android:fontFamily">@font/feather</item>
+    </style>
+</resources>

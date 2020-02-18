@@ -1,0 +1,2 @@
+include ':sample', ':feathericonslib'
+rootProject.name='FeatherIcons iconfont lib'
