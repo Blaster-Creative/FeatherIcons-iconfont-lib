@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/blastercoil/FeatherIcons-iconfont-lib.svg)](https://jitpack.io/#blastercoil/FeatherIcons-iconfont-lib)
+
 # FeatherIconsLib
 
 Feather iconfont wrapped in a library for convenience.  
